@@ -1,0 +1,25 @@
+.box
+{
+    width: 700px;
+    height: 1100px;
+    border: 10px solid black; 
+    color: black;
+    background-color: bisque;
+    padding: 20px; 
+    margin: 20px; 
+    box-sizing: border-box; 
+}
+.bbox
+{
+    width: 200px;
+    height: 20px;
+    border: 10px solid rgb(24, 223, 57); 
+    color: black;
+    background-color: rgb(24, 223, 57);
+    padding: 20px; 
+    margin: 20px; 
+    box-sizing: border-box; 
+    text-align: center;
+    
+}
+
